@@ -3,8 +3,8 @@
 WebView app cho website https://downloadmapimage.com/
 
 ## Thông tin version
-- **versionCode**: 17
-- **versionName**: 1.1.7
+- **versionCode**: 19
+- **versionName**: 1.1.9
 - **applicationId**: com.downloadmapimage.app
 - **minSdk**: 21 (Android 5.0+)
 - **targetSdk**: 34 (Android 14)
