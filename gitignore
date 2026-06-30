@@ -1,0 +1,25 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+app/build/
+app/release/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration (machine-specific, must never be committed)
+local.properties
+
+# Signing keys and credentials — NEVER commit these
+*.jks
+*.keystore
+keystore.properties
+
+# Log/output files
+*.log
+output.json
