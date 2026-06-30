@@ -1,0 +1,3 @@
+- Adjusted layout to avoid camera/status bar cutouts on modern devices
+- Improved pinch-to-zoom handling
+- Minor stability and security improvements
