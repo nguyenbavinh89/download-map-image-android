@@ -1,0 +1,15 @@
+Download Google Map Image is a simple WebView-based companion app for
+downloadmapimage.com, a free tool that lets you download Google Maps
+images and Street View 360\xc2\xb0 panoramas without needing to log in or use
+an API key.
+
+Features:
+* Download static map images directly from a Google Maps URL or place
+* Download Street View 360\xc2\xb0 panoramas
+* Share a Google Maps link from another app directly into this app
+* No login or account required
+* No API key required
+
+This app loads downloadmapimage.com inside a WebView to fetch and
+process the images, so an internet connection to that service is
+required for the app to work.
